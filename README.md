@@ -1,0 +1,2 @@
+# Indian-Migrants-Data-EDA-E-Shram-Applications-of-Unorganized-Workers
+This repository contains exploratory data analysis (EDA) of Indian migrant workers' data, sourced from the E-Shram portal through API access. The E-Shram portal collects information on workers in the unorganized sector, offering valuable insights into the demographic distribution, migration patterns, and socio-economic conditions of Indian workers.

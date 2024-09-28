@@ -18,3 +18,8 @@ API Data Extraction
 
 # What is Eshram ?
 The e-Shram card is an identity card for unorganised workers in India that helps them access social security benefits and government services. The e-Shram card is part of the National Database of Unorganised Workers (NDUW), which was launched by the Government of India's Ministry of Labour and Employment. The database includes information such as name, address, occupation, educational qualifications, and family details. 
+
+# Existing Policies
+1. [ILO](https://www.ilo.org/media/392526/download)
+
+2. [Inter State Migarant Workers](https://blogs.worldbank.org/en/peoplemove/inter-state-migrant-workers-india-policy-decent-world-work)
